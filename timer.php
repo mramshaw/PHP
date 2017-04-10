@@ -14,7 +14,7 @@
 
 $sleep_time = 5; // TODO: Accept this as a variable
 
-// set the tie limit higher than the sleep value
+// set the time limit higher than the sleep value
 //   so that the script does not time out
 set_time_limit($sleep_time + 5);
 
